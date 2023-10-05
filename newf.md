@@ -1,5 +1,6 @@
 __Hc__
-Is this and MARDDOWN file?
+
+Is this a MARDDOWN file?
 
 # I'm new here:
 
